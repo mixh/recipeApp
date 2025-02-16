@@ -4,7 +4,7 @@ class RecipeViewModel: ObservableObject {
     private let geminiService: GeminiService
     
     init() {
-        self.geminiService = GeminiService(apiKey: "AIzaSyDf26fouXER1VXubgNc9bGaQDD7S-T9C80")
+        self.geminiService = GeminiService(apiKey: "enter gemini api key here")
     }
     
     func generateRecipes(from ingredients: [String]) async throws -> Recipe {
