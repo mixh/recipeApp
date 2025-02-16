@@ -12,6 +12,10 @@ A SwiftUI-based iOS application that helps users generate recipes based on avail
 - 💾 Persistent storage of saved recipes
 
 ## Screenshots
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-15 at 20 04 29](https://github.com/user-attachments/assets/aea6c42d-049a-4b2c-836e-186ebcdae761)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-15 at 20 07 56](https://github.com/user-attachments/assets/a304c380-f353-41f4-9c12-6d2563b58520)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-15 at 20 05 09](https://github.com/user-attachments/assets/7a8e4907-8db8-4139-970b-54a92405b8db)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-15 at 20 05 17](https://github.com/user-attachments/assets/88f28837-0f9f-4d92-aa18-62ce9405125e)
 
 
 
